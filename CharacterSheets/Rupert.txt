@@ -1,0 +1,77 @@
+Character sheet for Rupert LeGuin
+
+Class: Rogue
+Alignment: Chaotic Neutral
+Race: Human
+Gender: Male
+Age: 34
+Background: Noble
+Level: 1
+Player Name: User
+Stats
+Stat	Score	Modifier	Saving Throw
+STR	9	-1	-1
+DEX	16	+3	+5
+CON	13	+1	+1
+INT	14	+2	+2
+WIS	11	+0	+0
+CHA	15	+2	+2
+		
+Proficiencies & Languages
+Armor: Light Armor
+Weapons: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
+Tools: Thieves' Tools, Playing Card Set
+Languages: Common, Elvish, Dwarvish
+Racial Traits (Human)
+Ability Score Increase: Your ability scores each increase by 1. (Already applied)
+Key Stats
+Stat	Value	Details
+HP	9 / 9	1d8 + CON mod (8 + 1)
+AC	14	Leather Armor (11) + DEX mod (3)
+Initiative	+3	DEX mod
+Speed	30 ft	
+Hit Dice	1d8	(Rogue)
+Proficiency Bonus	+2	
+Passive Perception	10	(10 + WIS mod + Perception bonus)
+Class Features (Rogue)
+Expertise: At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
+Suggestion: Given Rupert's nature, Sleight of Hand and Deception would be excellent choices for Expertise.
+Sneak Attack: Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon. You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.
+Thieves' Cant: During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the local watch is corrupt and can be bribed.
+Background Feature (Noble)
+Position of Privilege: Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local ruler or other important personage, if not a friendly reception then at least a chance to speak your mind.
+Weapon Table
+Weapon	Atk Bonus	Damage/Type	Properties
+Rapier	+5	1d8+3 Piercing	Finesse
+Shortbow	+5	1d6+3 Piercing	Ammunition (range 80/320), Two-handed
+Dagger (x2)	+5	1d4+3 Piercing	Finesse, Light, Thrown (range 20/60)
+Skills Table
+Skill	Mod	Bonus	Proficient
+Acrobatics	DEX	+5	Yes
+Animal Handling	WIS	+0	No
+Arcana	INT	+2	No
+Athletics	STR	-1	No
+Deception	CHA	+2	No
+History	INT	+4	Yes
+Insight	WIS	+0	No
+Intimidation	CHA	+2	No
+Investigation	INT	+4	Yes
+Medicine	WIS	+0	No
+Nature	INT	+2	No
+Perception	WIS	+0	No
+Performance	CHA	+2	No
+Persuasion	CHA	+4	Yes
+Religion	INT	+2	No
+Sleight of Hand	DEX	+3	No
+Stealth	DEX	+5	Yes
+Survival	WIS	+0	No
+Personality Section
+Personality Trait 1: "I'm always calm, no matter what the situation. I never raise my voice or let my emotions control me."
+Personality Trait 2: "My eloquent flattery and keen wit can hold others spellbound."
+Ideal: Hedonism: "Life is a game, and I intend to win it in the most enjoyable way possible, regardless of who gets hurt."
+Bond: "My house's honor is my honor, and I will die to defend it."
+Flaw: "I am utterly convinced of my own intellectual superiority and tend to underestimate others, especially those I deem 'common'."
+Roleplaying Notes for Rupert:
+Core Concept: Rupert is a sophisticated gentleman from a noble house, outwardly composed and charming, who harbors a secret life as a thrill-seeking rogue. He views thievery not as a necessity but as an intellectual sport, driven by a hedonistic desire for excitement and a firm belief in his own superiority. Despite his disregard for common laws, he is fiercely loyal to his family's honor, creating an intriguing internal conflict between his private pursuits and his public duty.
+Verbal Style: Rupert's speech is likely measured and articulate, rarely betraying strong emotion, aligning with his calm demeanor. His vocabulary would be extensive, drawing from his noble education and travels, possibly laced with subtle wit and sophisticated allusions. He would employ eloquent flattery and keen observations to influence others, always focusing on maintaining an air of refined charm. Sentence structure would be complex but clear, reflecting his sharp intellect and persuasive abilities. When engaging in thievery, his tone might shift to a more detached, almost clinical amusement, especially when discussing his "sport." He might subtly drop hints of his noble status to assert dominance or gain trust.
+Mannerisms (Guidance): Rupert would carry himself with an inherent elegance and confidence, a straight posture, and deliberate movements, even in stressful situations. He would maintain steady eye contact, using his gaze to analyze and assess rather than to intimidate directly. A faint, knowing smile might play on his lips when observing others he deems "common," or when a plan unfolds perfectly. He might subtly adjust his cufflinks, straighten his collar, or toy with a playing card while deep in thought, demonstrating both his refined background and his proficiency. When interacting with those he considers beneath him, there might be a subtle, almost imperceptible air of condescension or impatience. In moments of heightened challenge, his calm exterior would remain, perhaps only a slight sharpening of his focus or a subtle shift in his stance indicating his readiness to act.

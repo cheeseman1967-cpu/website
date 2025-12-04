@@ -1,0 +1,134 @@
+Character sheet for Sprocket
+
+Class: Barbarian (Level 1)
+Alignment: Lawful Good
+Race: Half-Elf
+Gender: Male
+Age: 50
+Background: Noble
+Player Name: User
+Stats Table
+Stat    Score   Modifier   Saving Throw
+STR     16      +3         +5
+DEX     15      +2         +2
+CON     10      -1         -1
+INT     12      +1         +1
+WIS     11      +0         +0
+CHA     10      +0         +0
+		
+Proficiencies & Languages
+
+    Armor: Light armor, Medium armor, Shields
+
+    Weapons: Simple weapons, Martial weapons
+
+    Tools: Dice Set
+
+    Languages: Common, Elvish, Goblin, Orc
+
+Racial Traits (Half-Elf)
+
+    Ability Score Increase: Charisma increases by 2. Two other ability scores of your choice (Strength, Dexterity) increase by 1. (Already applied)
+
+    Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+    Fey Ancestry: You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+    Skill Versatility: You gain proficiency in two skills of your choice (Athletics, Stealth). (Already applied)
+
+    Languages: You can speak, read, and write Common, Elvish, and two other languages of your choice (Goblin, Orc). (Already applied)
+
+Key Stats Table
+Stat	Value	Details
+HP	11 / 11	(12 (Barbarian HD) - 1 (CON mod))
+AC	11	(10 + DEX mod (2) - 1 (Unarmored Defense with CON mod of -1) / Or 14 with Shield)
+Initiative	+2	(DEX mod)
+Speed	30 ft	
+Hit Dice	1d12	(Barbarian)
+Proficiency Bonus	+2	
+Passive Perception	10	(10 + WIS mod (0) + Perception bonus (if proficient, which you are not))
+Class Features (Barbarian)
+
+    Rage: You can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor:
+
+        You have advantage on Strength checks and Strength saving throws.
+
+        When you make a melee weapon attack using Strength, you gain a +2 bonus to the damage roll (included in weapon table).
+
+        You have resistance to bludgeoning, piercing, and slashing damage.
+
+        Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage as a bonus action. You can rage 2 times per long rest.
+
+    Unarmored Defense: While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+
+Background Feature (Noble)
+
+    Position of Privilege: Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble or other person of authority.
+
+Starting Equipment
+
+    Greataxe
+
+    Two Handaxes
+
+    Four Javelins
+
+    Explorer's Pack (backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days of rations, waterskin, 50 feet of hempen rope)
+
+    Fine Clothes
+
+    Signet Ring
+
+    Scroll of Pedigree
+
+    Purse with 25 gp
+
+Weapon Table
+Weapon	Atk Bonus	Damage/Type	Properties
+Greataxe	+5	1d12+3 Slashing	Heavy, Two-Handed
+Greataxe (Rage)	+5	1d12+5 Slashing	Heavy, Two-Handed
+Handaxe	+5	1d6+3 Slashing	Light, Thrown (range 20/60)
+Handaxe (Rage)	+5	1d6+5 Slashing	Light, Thrown (range 20/60)
+Javelin	+5	1d6+3 Piercing	Thrown (range 30/120)
+Javelin (Rage)	+5	1d6+5 Piercing	Thrown (range 30/120)
+Skills Table
+Skill	Mod	Bonus	Proficient
+Acrobatics	DEX	+2	No
+Animal Handling	WIS	+2	Yes
+Arcana	INT	+1	No
+Athletics	STR	+5	Yes
+Deception	CHA	+0	No
+History	INT	+3	Yes
+Insight	WIS	+0	No
+Intimidation	CHA	+0	No
+Investigation	INT	+1	No
+Medicine	WIS	+0	No
+Nature	INT	+1	No
+Perception	WIS	+0	No
+Persuasion	CHA	+2	Yes
+Religion	INT	+1	No
+Sleight of Hand	DEX	+2	No
+Stealth	DEX	+4	Yes
+Survival	WIS	+2	Yes
+Personality Section
+
+    Personality Trait 1: The common folk love me for my kindness and generosity.
+
+    Personality Trait 2: Despite my noble upbringing, I treat everyone equally, regardless of station.
+
+    Ideal: Respect ("Respect is due to me because of my position, but all people, no matter their station, deserve to be treated with dignity.")
+
+    Bond: The common people I grew up among are my true family.
+
+    Flaw: I am a terrible judge of character, especially when someone seems charming or well-spoken.
+
+Roleplaying Notes for Sprocket:
+Core Concept
+
+Sprocket is a Lawful Good male Half-Elf Barbarian of fifty years, hailing from a noble lineage but whose heart and loyalty lie with the common folk. Despite his wild, raging nature, he is guided by a strong code of conduct and a deep sense of responsibility, rejecting the elitism of his birth for a more egalitarian perspective. His low Constitution score for a Barbarian suggests a perhaps less physically robust, but still powerful, individual who might rely on deftness and tactical positioning as much as raw, unfettered rage.
+Verbal Style
+
+Sprocket's speech is likely measured and articulate, reflecting his noble upbringing and good Intelligence, though perhaps occasionally colored by a rougher, more direct tone when his Barbarian nature surfaces. His vocabulary will be broad, but he'll focus on clear, unambiguous statements, particularly when discussing matters of justice, fairness, or the well-being of the common people, which will be his constant conversational focus. When his temper flares or he feels injustice, his tone might drop to a growl, becoming more curt and commanding, yet still maintaining an underlying sense of conviction. His sentences will tend to be well-structured, but during moments of passion, they might become shorter and more forceful. His high Persuasion proficiency further supports his ability to articulate his views compellingly, despite his occasional verbal outbursts.
+Mannerisms (Guidance)
+
+Visually, Sprocket might carry himself with an almost regal posture, a ghost of his noble past, but his movements will retain the powerful, ready-for-action stance of a Barbarian. When listening, he might maintain intense eye contact, assessing sincerity, though his flaw suggests he might often be mistaken in his judgments of the charming. During moments of frustration or internal conflict (especially when his "Lawful Good" ideals clash with his "Barbarian" impulses), he might clench his jaw or subtly flex his hands. When interacting with commoners, he will be genuinely warm and generous, perhaps offering a reassuring hand or a broad, disarming smile. Around nobility, he might maintain a respectful distance, his body language conveying an unstated critique or quiet defiance of their perceived arrogance. His low Constitution might mean he's more prone to showing fatigue or minor injuries, perhaps wincing briefly after exertion, which adds a touch of vulnerability to his otherwise formidable presence.

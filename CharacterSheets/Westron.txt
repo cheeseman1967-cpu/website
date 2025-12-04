@@ -1,0 +1,82 @@
+Westron
+Class: Wizard (Level 1) | Alignment: True Neutral | Race: High Elf | Gender: Male | Age: 250 | Background: Hermit | Player Name: User
+Stats
+Stat    Score   Modifier        Saving Throw
+STR     12      +1      +1
+DEX     17      +3      +5
+CON     14      +2      +2
+INT     18      +4      +6
+WIS     12      +1      +1
+CHA     9       -1      -1
+(Bold indicates proficiency)                   
+Proficiencies & Languages
+        •       Armor: None
+        •       Weapons: Daggers, darts, slings, quarterstaffs, light crossbows, longswords, shortswords, shortbows, longbows
+        •       Tools: Herbalism Kit
+        •       Languages: Common, Elvish
+Racial Traits (High Elf)
+        •       Ability Score Increase: Your Intelligence score increases by 1, and your Dexterity score increases by 2. (Already applied)
+        •       Cantrip: You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. (Chosen: Light)
+        •       Elf Weapon Training: You have proficiency with the longsword, shortsword, shortbow, and longbow.
+        •       Fey Ancestry: You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+        •       Trance: Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. The Common word for this state is "trance." While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+        •       Speed: Your base walking speed is 30 feet.
+Key Stats
+Stat    Value   Details
+HP      8 / 8   6 (Wizard) + 2 (CON mod)
+AC      13      10 (Base) + 3 (DEX mod, unarmored)
+Initiative      +3      (DEX mod)
+Speed   30 ft   
+Hit Dice        1d6     (Based on Wizard class)
+Proficiency Bonus       +2     
+Passive Perception      11      10 + 1 (WIS mod) + 0 (No Perception proficiency)
+Class Features (Wizard)
+        •       Spellcasting: You have a spellbook containing six 1st-level wizard spells of your choice. You prepare a number of wizard spells equal to your Intelligence modifier + your wizard level (4 + 1 = 5 spells).
+        •       Spell Save DC: 8 + Proficiency Bonus + Intelligence Modifier = 8 + 2 + 4 = 14
+        •       Spell Attack Bonus: Proficiency Bonus + Intelligence Modifier = 2 + 4 = +6
+        •       Arcane Recovery: Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher. (At Level 1, you can recover one 1st-level spell slot).
+Background Feature (Hermit)
+        •       Discovery: The quiet seclusion of your extended hermitage gave you access to a unique and important discovery. The DM will work with you to determine the details of this discovery.
+Spellcasting
+        •       Spellcasting Ability: Intelligence
+        •       Cantrips Known (3):
+        •       Light (High Elf racial cantrip)
+        •       Fire Bolt (Wizard choice)
+        •       Prestidigitation (Wizard choice)
+        •       1st-level Spells Prepared (5):
+        •       Magic Missile
+        •       Shield
+        •       Detect Magic
+        •       Mage Armor
+        •       Chromatic Orb
+Weapon Table
+Weapon  Atk Bonus       Damage/Type     Properties
+Dagger  +5      1d4+3 Piercing  Finesse, Light, Thrown (range 20/60)
+Staff (Outlander)       +3      1d6 Bludgeoning (Versatile 1d8) Versatile (1d8)
+Skills Table
+Skill   Mod     Bonus   Proficient
+Acrobatics      DEX     +3      No
+Animal Handling WIS     +1      No
+Arcana  INT     +6      Yes
+Athletics       STR     +1      No
+Deception       CHA     -1      No
+History INT     +4      No
+Insight WIS     +3      Yes
+Intimidation    CHA     -1      No
+Investigation   INT     +4      No
+Medicine        WIS     +3      Yes
+Nature  INT     +4      No
+Perception      WIS     +1      No
+Performance     CHA     -1      No
+Persuasion      CHA     -1      No
+Religion        INT     +6      Yes
+Sleight of Hand DEX     +3      No
+Stealth DEX     +3      No
+Survival        WIS     +1      No
+Personality Section
+        •       Personality Trait 1: I often get lost in thought, pondering complex theories or ancient prophecies.
+        •       Personality Trait 2: Having spent so long alone, I find the hustle and bustle of towns overwhelming and prefer quiet solitude.
+        •       Ideal: Discovery - The universe is full of mysteries, and I intend to uncover as many as I can.
+        •       Bond: I entered seclusion to hide a terrible secret I learned, and I will die before that secret is revealed.
+        •       Flaw: I am utterly oblivious to social niceties and often say the wrong thing without realizing it.
+

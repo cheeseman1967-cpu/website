@@ -1,0 +1,97 @@
+Character sheet for Thorn Blackshield, Level 1, Male Hill Dwarf Acolyte Cleric (Neutral Good)
+Player Name: Nick
+________________________________________
+Stats
+Stat	Score	Modifier	Saving Throw
+STR	17	+3	+5
+DEX	12	+1	+1
+CON	16	+3	+5
+INT	10	+0	+0
+WIS	18	+4	+6
+CHA	10	+0	+0
+			
+________________________________________
+Proficiencies & Languages
+•	Armor: Light armor, Medium armor, Heavy armor, Shields
+•	Weapons: Simple weapons, Martial weapons (from racial proficiency in battleaxes, handaxes, light hammers, warhammers)
+•	Tools: Smith's tools
+•	Languages: Common, Dwarvish
+________________________________________
+Racial Traits (Hill Dwarf)
+•	Ability Score Increase: Your Constitution score increases by 2, and your Wisdom score increases by 1.
+•	Speed: Your base walking speed is 25 feet.
+•	Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+•	Dwarven Resilience: You have advantage on saving throws against poison, and you have resistance against poison damage.
+•	Dwarven Combat Training: You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+•	Tool Proficiency: You gain proficiency with smith's tools.
+•	Stonecunning: Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+•	Dwarven Toughness: Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+________________________________________
+Key Stats
+Stat	Value	Details
+HP	12 / 12	8 (Cleric Hit Die) + 3 (CON mod) + 1 (Dwarven Toughness)
+AC	18	16 (Chain Mail) + 2 (Shield)
+Initiative	+1	(DEX mod)
+Speed	25 ft	
+Hit Dice	1d8	(Cleric)
+Proficiency Bonus	+2	
+Passive Perception	14	(10 + Wisdom Modifier)
+________________________________________
+Class Features (Cleric - Level 1)
+•	Spellcasting: You gain the ability to cast spells. Wisdom is your spellcasting ability.
+o	Cantrips: You know three cantrips of your choice from the cleric spell list. (Guidance, Sacred Flame, Thaumaturgy)
+o	Preparing and Casting Spells: You prepare a list of cleric spells equal to your Wisdom modifier + your Cleric level (4 + 1 = 5 prepared spells). You can change these prepared spells after a long rest.
+o	Spellcasting Focus: You can use a holy symbol as a spellcasting focus.
+o	Ritual Casting: You can cast any cleric spell you know as a ritual if that spell has the ritual tag.
+•	Divine Domain (Life Domain): You gain proficiency with Heavy Armor.
+o	Disciple of Life: Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
+________________________________________
+Background Feature (Acolyte)
+•	Shelter of the Faithful: As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion might support you and your companions in other ways (DM's discretion), and a temple might provide a residence for you and your companions for a short time (1d6 days) if you need to lie low.
+________________________________________
+Spellcasting (Cleric - Life Domain)
+•	Spell Save DC: 16 (8 + Proficiency Bonus + Wisdom Modifier)
+•	Spell Attack Bonus: +6 (Proficiency Bonus + Wisdom Modifier)
+•	Cantrips Known: Guidance, Sacred Flame, Thaumaturgy
+•	1st-Level Spell Slots: 2
+•	Spells Prepared: 5 (Wisdom Modifier + Cleric Level)
+o	Life Domain Spells (Always Prepared): Cure Wounds, Bless
+o	Other Prepared 1st-level Cleric Spells: Detect Poison and Disease, Purify Food and Drink, Shield of Faith
+________________________________________
+Weapon Table
+Weapon	Atk Bonus	Damage/Type	Properties
+Warhammer	+5	1d8 + 3 Bludgeoning	Versatile (1d10)
+Light Crossbow	+3	1d8 Piercing	Ammunition (range 80/320), Loading, Two-Handed
+________________________________________
+Skills Table
+Skill	Mod	Bonus	Proficient
+Acrobatics	DEX	+1	No
+Animal Handling	WIS	+4	No
+Arcana	INT	+0	No
+Athletics	STR	+3	No
+Deception	CHA	+0	No
+History	INT	+0	No
+Insight	WIS	+6	Yes
+Intimidation	CHA	+0	No
+Investigation	INT	+0	No
+Medicine	WIS	+6	Yes
+Nature	INT	+0	No
+Religion	INT	+2	Yes
+Perception	WIS	+4	No
+Performance	CHA	+0	No
+Persuasion	CHA	+2	Yes
+Sleight of Hand	DEX	+1	No
+Stealth	DEX	+1	No
+Survival	WIS	+4	No
+________________________________________
+Personality
+•	Trait 1: I've enjoyed fine food, drink, and high society among my temple's elite. Rough living grates on me.
+•	Trait 2: Nothing can shake my optimistic attitude.
+•	Ideal: "I trust that my deity will guide my actions. I have faith that if I work hard, things will go well." (Faith)
+•	Bond: I seek to preserve a sacred relic or text that is vital to my faith.
+•	Flaw: I judge others harshly, and myself even more severely.
+________________________________________
+Roleplaying Notes for Thorn Blackshield:
+•	Core Concept: Thorn is a physically robust and devout Hill Dwarf Cleric, who, despite a privileged past in the temple, approaches the world with an unwavering optimism. His primary motivation is the preservation of sacred knowledge or artifacts of his faith, though he struggles with an internal tendency to judge both himself and others with considerable severity. His neutral good alignment reflects a desire to do good while respecting the broader cosmic balance rather than strict dogma, while his Life Domain powers further cement his role as a protector and healer. His high Constitution makes him incredibly resilient, and his exceptional Wisdom makes him a truly powerful spellcaster, insightful, and perceptive.
+•	Verbal Style: Thorn's vocabulary will likely be formal and respectful, peppered with religious terminology or references to his deity. His tone will generally be encouraging and hopeful, reflecting his optimism, but can quickly become stern or critical when confronted with actions or beliefs he deems immoral or irreverent, especially concerning his faith, sacred objects, or the well-being of others he feels compelled to protect. He might use proverbs or maxims from his faith to punctuate points, often relating to perseverance or the sanctity of life. His sentence structure will generally be deliberate and clear, less prone to slang or casual speech, emphasizing thoughtfulness and conviction.
+•	Mannerisms (Guidance): Despite his robust build, Thorn might carry himself with a certain refined air, betraying his appreciation for "high society." He might unconsciously brush dust from his vestments or armor, even in a dungeon, indicating his discomfort with rough living. When discussing his faith, a sacred relic, or the healing of others, his gaze might become intense and focused, showing his deep bond and commitment. In moments of doubt or self-criticism (which he might try to hide), he might clench his jaw or subtly shift his weight, revealing his internal struggle. When judging others, he might cross his arms or look down his nose, even slightly, at those he disapproves of, though his neutral good nature and healing inclination would temper outright hostility with an attempt at guidance or correction rather than condemnation. He might also subtly touch his holy symbol when casting spells or offering blessings, a habitual gesture of devotion.
